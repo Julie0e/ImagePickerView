@@ -21,6 +21,15 @@
 		00A9DE4C187A74EB00767ECA /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 00A9DE2E187A74EB00767ECA /* UIKit.framework */; };
 		00A9DE54187A74EB00767ECA /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 00A9DE52187A74EB00767ECA /* InfoPlist.strings */; };
 		00A9DE56187A74EB00767ECA /* ImagePickerViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00A9DE55187A74EB00767ECA /* ImagePickerViewTests.m */; };
+		00A9DE65187A786300767ECA /* image1.png in Resources */ = {isa = PBXBuildFile; fileRef = 00A9DE62187A786300767ECA /* image1.png */; };
+		00A9DE66187A786300767ECA /* image3.png in Resources */ = {isa = PBXBuildFile; fileRef = 00A9DE63187A786300767ECA /* image3.png */; };
+		00A9DE6E187A7A4400767ECA /* image4.png in Resources */ = {isa = PBXBuildFile; fileRef = 00A9DE68187A7A4400767ECA /* image4.png */; };
+		00A9DE6F187A7A4400767ECA /* image8.png in Resources */ = {isa = PBXBuildFile; fileRef = 00A9DE69187A7A4400767ECA /* image8.png */; };
+		00A9DE70187A7A4400767ECA /* image7.png in Resources */ = {isa = PBXBuildFile; fileRef = 00A9DE6A187A7A4400767ECA /* image7.png */; };
+		00A9DE71187A7A4400767ECA /* image6.png in Resources */ = {isa = PBXBuildFile; fileRef = 00A9DE6B187A7A4400767ECA /* image6.png */; };
+		00A9DE72187A7A4400767ECA /* image5.png in Resources */ = {isa = PBXBuildFile; fileRef = 00A9DE6C187A7A4400767ECA /* image5.png */; };
+		00A9DE74187A7B5100767ECA /* image9.png in Resources */ = {isa = PBXBuildFile; fileRef = 00A9DE73187A7B5100767ECA /* image9.png */; };
+		00A9DE76187A7BB900767ECA /* image2.png in Resources */ = {isa = PBXBuildFile; fileRef = 00A9DE75187A7BB900767ECA /* image2.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +62,15 @@
 		00A9DE51187A74EB00767ECA /* ImagePickerViewTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ImagePickerViewTests-Info.plist"; sourceTree = "<group>"; };
 		00A9DE53187A74EB00767ECA /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		00A9DE55187A74EB00767ECA /* ImagePickerViewTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ImagePickerViewTests.m; sourceTree = "<group>"; };
+		00A9DE62187A786300767ECA /* image1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image1.png; sourceTree = "<group>"; };
+		00A9DE63187A786300767ECA /* image3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image3.png; sourceTree = "<group>"; };
+		00A9DE68187A7A4400767ECA /* image4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image4.png; sourceTree = "<group>"; };
+		00A9DE69187A7A4400767ECA /* image8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image8.png; sourceTree = "<group>"; };
+		00A9DE6A187A7A4400767ECA /* image7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image7.png; sourceTree = "<group>"; };
+		00A9DE6B187A7A4400767ECA /* image6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image6.png; sourceTree = "<group>"; };
+		00A9DE6C187A7A4400767ECA /* image5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image5.png; sourceTree = "<group>"; };
+		00A9DE73187A7B5100767ECA /* image9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image9.png; sourceTree = "<group>"; };
+		00A9DE75187A7BB900767ECA /* image2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image2.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +130,15 @@
 		00A9DE30187A74EB00767ECA /* ImagePickerView */ = {
 			isa = PBXGroup;
 			children = (
+				00A9DE68187A7A4400767ECA /* image4.png */,
+				00A9DE73187A7B5100767ECA /* image9.png */,
+				00A9DE75187A7BB900767ECA /* image2.png */,
+				00A9DE69187A7A4400767ECA /* image8.png */,
+				00A9DE6A187A7A4400767ECA /* image7.png */,
+				00A9DE6B187A7A4400767ECA /* image6.png */,
+				00A9DE6C187A7A4400767ECA /* image5.png */,
+				00A9DE62187A786300767ECA /* image1.png */,
+				00A9DE63187A786300767ECA /* image3.png */,
 				00A9DE39187A74EB00767ECA /* AppDelegate.h */,
 				00A9DE3A187A74EB00767ECA /* AppDelegate.m */,
 				00A9DE3C187A74EB00767ECA /* Main.storyboard */,
@@ -228,8 +255,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				00A9DE70187A7A4400767ECA /* image7.png in Resources */,
+				00A9DE71187A7A4400767ECA /* image6.png in Resources */,
+				00A9DE76187A7BB900767ECA /* image2.png in Resources */,
+				00A9DE66187A786300767ECA /* image3.png in Resources */,
+				00A9DE6F187A7A4400767ECA /* image8.png in Resources */,
+				00A9DE72187A7A4400767ECA /* image5.png in Resources */,
+				00A9DE65187A786300767ECA /* image1.png in Resources */,
 				00A9DE43187A74EB00767ECA /* Images.xcassets in Resources */,
+				00A9DE6E187A7A4400767ECA /* image4.png in Resources */,
 				00A9DE35187A74EB00767ECA /* InfoPlist.strings in Resources */,
+				00A9DE74187A7B5100767ECA /* image9.png in Resources */,
 				00A9DE3E187A74EB00767ECA /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -460,6 +496,7 @@
 				00A9DE5B187A74EB00767ECA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		00A9DE5C187A74EB00767ECA /* Build configuration list for PBXNativeTarget "ImagePickerViewTests" */ = {
 			isa = XCConfigurationList;
@@ -468,6 +505,7 @@
 				00A9DE5E187A74EB00767ECA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
